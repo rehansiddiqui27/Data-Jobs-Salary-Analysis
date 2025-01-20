@@ -1,5 +1,5 @@
 # Excel Salary Dashboard
-![1_Salary_Dashboard.png](/Excel Learning/Excel Dataset/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![Image](https://github.com/user-attachments/assets/0677db93-67b4-454a-ac38-d17e8482a345)
 
 ## Introduction
 
